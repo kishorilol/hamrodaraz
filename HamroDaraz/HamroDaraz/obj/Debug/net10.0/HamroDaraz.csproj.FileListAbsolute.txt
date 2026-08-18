@@ -22,7 +22,6 @@ D:\projects\hamrodaraz\HamroDaraz\HamroDaraz\obj\Debug\net10.0\rjsmcshtml.dswa.c
 D:\projects\hamrodaraz\HamroDaraz\HamroDaraz\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\projects\hamrodaraz\HamroDaraz\HamroDaraz\obj\Debug\net10.0\scopedcss\bundle\HamroDaraz.styles.css
 D:\projects\hamrodaraz\HamroDaraz\HamroDaraz\obj\Debug\net10.0\scopedcss\projectbundle\HamroDaraz.bundle.scp.css
-D:\projects\hamrodaraz\HamroDaraz\HamroDaraz\obj\Debug\net10.0\compressed\cjx934rtmv-{0}-b9sayid5wm-b9sayid5wm.gz
 D:\projects\hamrodaraz\HamroDaraz\HamroDaraz\obj\Debug\net10.0\compressed\u7xct4g22q-{0}-61n19gt1b8-61n19gt1b8.gz
 D:\projects\hamrodaraz\HamroDaraz\HamroDaraz\obj\Debug\net10.0\compressed\dss90sbofo-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 D:\projects\hamrodaraz\HamroDaraz\HamroDaraz\obj\Debug\net10.0\compressed\44ip2ecvnr-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -231,3 +230,4 @@ D:\projects\hamrodaraz\HamroDaraz\HamroDaraz\bin\Debug\net10.0\runtimes\win-x64\
 D:\projects\hamrodaraz\HamroDaraz\HamroDaraz\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
 D:\projects\hamrodaraz\HamroDaraz\HamroDaraz\obj\Debug\net10.0\HamroDaraz.csproj.AssemblyReference.cache
 D:\projects\hamrodaraz\HamroDaraz\HamroDaraz\obj\Debug\net10.0\HamroDaraz.csproj.Up2Date
+D:\projects\hamrodaraz\HamroDaraz\HamroDaraz\obj\Debug\net10.0\compressed\cjx934rtmv-{0}-rpb4asa25l-rpb4asa25l.gz
