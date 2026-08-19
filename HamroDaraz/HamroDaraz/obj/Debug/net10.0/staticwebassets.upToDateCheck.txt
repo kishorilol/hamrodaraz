@@ -61,6 +61,7 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\ProductImages\Screenshot 2026-07-16 185720.png
 D:\projects\hamrodaraz\HamroDaraz\HamroDaraz\wwwroot\css\site.css
 D:\projects\hamrodaraz\HamroDaraz\HamroDaraz\wwwroot\favicon.ico
 D:\projects\hamrodaraz\HamroDaraz\HamroDaraz\wwwroot\js\site.js
