@@ -27,9 +27,7 @@
             <th>
                 @Html.DisplayNameFor(model => model.CategoryID)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Category)
-            </th>
+            
             <th></th>
         </tr>
     </thead>
@@ -46,14 +44,12 @@
                 @Html.DisplayFor(model => item.Price)
             </td>
             <td>
-                @Html.DisplayFor(model => item.Producticon)
+                    <img src="/@item.Producticon" alt="Alternate Text" height="40" width="40"/>
             </td>
             <td>
-                @Html.DisplayFor(model => item.CategoryID)
+                @Html.DisplayFor(model => item.Category.Name)
             </td>
-            <td>
-                @Html.DisplayFor(model => item.Category)
-            </td>
+          
             <td>
                 <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.ID">Details</a> |

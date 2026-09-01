@@ -3,28 +3,52 @@
   "WorkspaceRootPath": "D:\\projects\\hamrodaraz\\HamroDaraz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|d:\\projects\\hamrodaraz\\hamrodaraz\\hamrodaraz\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|solutionrelative:hamrodaraz\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|d:\\projects\\hamrodaraz\\hamrodaraz\\hamrodaraz\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|solutionrelative:hamrodaraz\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|d:\\projects\\hamrodaraz\\hamrodaraz\\hamrodaraz\\views\\product\\productdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|solutionrelative:hamrodaraz\\views\\product\\productdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|d:\\projects\\hamrodaraz\\hamrodaraz\\hamrodaraz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|solutionrelative:hamrodaraz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|d:\\projects\\hamrodaraz\\hamrodaraz\\hamrodaraz\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|solutionrelative:hamrodaraz\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|d:\\projects\\hamrodaraz\\hamrodaraz\\hamrodaraz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|solutionrelative:hamrodaraz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|d:\\projects\\hamrodaraz\\hamrodaraz\\hamrodaraz\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|solutionrelative:hamrodaraz\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|d:\\projects\\hamrodaraz\\hamrodaraz\\hamrodaraz\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|solutionrelative:hamrodaraz\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|d:\\projects\\hamrodaraz\\hamrodaraz\\hamrodaraz\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|solutionrelative:hamrodaraz\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|d:\\projects\\hamrodaraz\\hamrodaraz\\hamrodaraz\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|solutionrelative:hamrodaraz\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|d:\\projects\\hamrodaraz\\hamrodaraz\\hamrodaraz\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|solutionrelative:hamrodaraz\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|d:\\projects\\hamrodaraz\\hamrodaraz\\hamrodaraz\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|solutionrelative:hamrodaraz\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|d:\\projects\\hamrodaraz\\hamrodaraz\\hamrodaraz\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|solutionrelative:hamrodaraz\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|d:\\projects\\hamrodaraz\\hamrodaraz\\hamrodaraz\\hamrodaraz.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|solutionrelative:hamrodaraz\\hamrodaraz.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|d:\\projects\\hamrodaraz\\hamrodaraz\\hamrodaraz\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|solutionrelative:hamrodaraz\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A21EB6A-8FCE-D46A-9E2B-185AF50729A7}|HamroDaraz\\HamroDaraz.csproj|d:\\projects\\hamrodaraz\\hamrodaraz\\hamrodaraz\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -51,45 +75,155 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "HamroDaraz\\Views\\Product\\Create.cshtml",
-              "ToolTip": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "HamroDaraz\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-18T03:58:53.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "HamroDaraz\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "HamroDaraz\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-18T03:36:55.167Z",
+              "WhenOpened": "2026-09-01T04:06:38.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Program.cs",
+              "RelativeDocumentMoniker": "HamroDaraz\\Program.cs",
+              "ToolTip": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Program.cs",
+              "RelativeToolTip": "HamroDaraz\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T04:05:32.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductDashboard.cshtml",
+              "DocumentMoniker": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Views\\Product\\ProductDashboard.cshtml",
+              "RelativeDocumentMoniker": "HamroDaraz\\Views\\Product\\ProductDashboard.cshtml",
+              "ToolTip": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Views\\Product\\ProductDashboard.cshtml",
+              "RelativeToolTip": "HamroDaraz\\Views\\Product\\ProductDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-01T03:59:01.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HamroDaraz\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "HamroDaraz\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-19T04:51:47.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "HamroDaraz\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "HamroDaraz\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-19T04:49:13.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "HamroDaraz\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "HamroDaraz\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T14:14:53.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "HamroDaraz\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "HamroDaraz\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-31T03:49:03.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "HamroDaraz\\Models\\Product.cs",
+              "ToolTip": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Models\\Product.cs",
+              "RelativeToolTip": "HamroDaraz\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T14:11:32.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "HamroDaraz\\Models\\Category.cs",
+              "ToolTip": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Models\\Category.cs",
+              "RelativeToolTip": "HamroDaraz\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T14:10:09.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "HamroDaraz\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Controllers\\ProductController.cs*",
-              "RelativeToolTip": "HamroDaraz\\Controllers\\ProductController.cs*",
-              "ViewState": "AgIAACgAAAAAAAAAAAA5wEAAAAAcAAAAAAAAAA==",
+              "ToolTip": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "HamroDaraz\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-12T14:39:10.019Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
+              "Title": "HamroDaraz",
+              "DocumentMoniker": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\HamroDaraz.csproj",
+              "RelativeDocumentMoniker": "HamroDaraz\\HamroDaraz.csproj",
+              "ToolTip": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\HamroDaraz.csproj",
+              "RelativeToolTip": "HamroDaraz\\HamroDaraz.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-19T04:51:10.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "HamroDaraz\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "HamroDaraz\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-31T03:39:15.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "HamroDarazContext.cs",
               "DocumentMoniker": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\HamroDarazContext.cs",
               "RelativeDocumentMoniker": "HamroDaraz\\HamroDarazContext.cs",
@@ -101,20 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "HamroDaraz\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "HamroDaraz\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T14:14:53.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\appsettings.json",
               "RelativeDocumentMoniker": "HamroDaraz\\appsettings.json",
@@ -126,20 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "HamroDaraz\\Models\\Product.cs",
-              "ToolTip": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Models\\Product.cs",
-              "RelativeToolTip": "HamroDaraz\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T14:11:32.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "site.css",
               "DocumentMoniker": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "HamroDaraz\\wwwroot\\css\\site.css",
@@ -148,19 +256,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-08-18T03:51:26.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "HamroDaraz\\Models\\Category.cs",
-              "ToolTip": "D:\\projects\\hamrodaraz\\HamroDaraz\\HamroDaraz\\Models\\Category.cs",
-              "RelativeToolTip": "HamroDaraz\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T14:10:09.703Z",
-              "EditorCaption": ""
             }
           ]
         }

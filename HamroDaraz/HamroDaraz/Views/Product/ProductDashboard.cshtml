@@ -1,0 +1,28 @@
+@model IEnumerable<HamroDaraz.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Dashboard</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <tbody>
+
+		<tr>
+			@foreach (var item in Model)
+			{
+            <td>
+					<img src="/@item.Producticon" alt="Alternate Text" height="40" width="40" />
+                    @Html.DisplayFor(model => item.Title)
+					@Html.DisplayFor(model => item.Price)
+					<a asp-action="Details" asp-route-id="@item.ID">Details</a>
+					<a asp-action="Edit" asp-route-id="@item.ID">Add To Cart</a>
+				</td>
+			}
+        </tr>
+    </tbody>
+</table>
